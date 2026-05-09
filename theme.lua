@@ -424,4 +424,3 @@ end
 
 getgenv().LinoriaThemeManager = ThemeManager
 return ThemeManager
-roxy.win
